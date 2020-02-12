@@ -1,13 +1,14 @@
 # Description
-This is a html ,CSS
+This is a html and CSS website.
 
 # Citation
 Features
 --------
+consists of:
 
 - a flower picture
 
-- a hair picture
+- a beach picture
 
 # Installation
 $ install Challenge
@@ -31,9 +32,9 @@ $ install Challenge
 # Contribute
 ------
 
-- Issue Tracker: github.com/$project/$project/issues
+- Issue Tracker: github.com/$Abi938/issues
 
-- Source Code: github.com/$project/$project
+- Source Code: github.com/$Abi938/issues
 
 
 
@@ -45,9 +46,9 @@ A LIST OF VERSIONS OF THE FILES
 
 MAJOR EDITS THAT IN EACH VERSION
 
-Home - we added a bit of the school's pictures, the teachers and the learners.
-Events - the page consist of the events that happen it the school such as their outings, prizes given to the learners for top achievers.
-About - the school address and the contact details.
+Home - I made the fonts a bit larger.
+About - added more contact about myself.
+Contact- changed the color of my sign in button
 
 -I used the Html elements (<h1> for the headings, <p> for the paragraphs, <br> to give spaces in our sentences and we also used padding)
 -I also used CSS  for the (font-sizes, width, height, background color and text-align)
@@ -56,11 +57,8 @@ About - the school address and the contact details.
 Support
 -------
 
-If you are having issues, please let us know.
+If you are having issues, please let us know
 
-We have a mailing list located at: abubakrhartley001@gmail.com
-
-License
--------
+Footer
 
 The project is licensed under the capacity.org.za
