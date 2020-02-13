@@ -18,6 +18,60 @@ header{
     background-attachment: fixed;
 }
 
+.main h1{
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    font-family: 'https://fonts.google.com/specimen/Barlow+Semi+Condensed/';
+    font-size: 65px;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+.main h2{
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    font-family: 'https://fonts.google.com/specimen/Barlow+Semi+Condensed/';
+    font-size: 35px;
+    text-transform: uppercase;
+    
+
+    
+}
+
+.main h3{
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main h4{
+
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.main h5{
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+.main p{
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+
 nav{
     display: flex;
     justify-content: space-around;
@@ -50,55 +104,31 @@ nav{
     font-weight: bold;
 }
 
-.welcome-text{
-   
-    padding: 100px;
-    margin-top: 10px;
-    color: white;
-    text-align: center;
-    font-family:'https://fonts.google.com/specimen/Barlow+Semi+Condensed/';
-    font-size: 30px;
-    text-transform: none;
-}
-
-.welcome-text h1{
-    padding: 80px;
-    margin-top: 20px;
-    color: white;
-    text-align: center;
-    font-family:'https://fonts.google.com/specimen/Monoton/';
-    font-size: 65px;
-    
-
-}
-
 
 #showcase{
     min-height: 450px;
-    background:linear-gradient(rgba(0,0,0,0.26), rgba(0,0,0,0.26)), url('file.gif');
+    background:linear-gradient(rgba(0, 0, 0, 0.25), rgba(0,0,0,0.25)), url('hair.jfif') no-repeat;
     background-size:cover;
     background-position: center center;
     position: relative;
     text-align: center;
     text-align: center;
-    color: black;
+    color: #ffffff;
     background-attachment: fixed;
     border: 2px solid black;
-    font-size: 50px;
 }
 
 #showcase h1{
-     padding: 100px;
-    margin-top: 50px;
-    color: black;
-    text-align: center;
-    font-family:'https://fonts.google.com/specimen/Barlow+Semi+Condensed/';
+    margin-top: 100px;
+    font-size: 55px;
+    margin-bottom: 10px;
+    font-family:'Poppins', sans-serif;
     
 }
 
-#showcase p{                                                                                                                                                                              
-    font-size: 50px;
-    font-family:'https://fonts.google.com/specimen/Barlow+Semi+Condensed/';
+#showcase p{
+    font-size: 20px;
+    font-family:'Poppins', sans-serif;
 }
 
 #button_1{
@@ -112,7 +142,7 @@ nav{
 
 #newslettter{
     padding:15px;
-    color: black;
+    color:#ffffff;
     background:#111;
 
 }
